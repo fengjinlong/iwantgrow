@@ -1,0 +1,7 @@
+{
+  "name": "吞噬进化：草地篇",
+  "description": "《吞噬进化》Lv1-10微观草地阶段MVP：探索生态、等级压制、秒杀换血与随机闪现逃脱的单机进化游戏。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

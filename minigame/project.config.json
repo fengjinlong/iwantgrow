@@ -1,0 +1,35 @@
+{
+  "description": "吞噬进化：草地篇 微信小游戏工程配置",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": false,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": false,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidPkgSize": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "lazyCodeLoading": "",
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "bundle": false,
+    "useCompilerPlugins": false
+  },
+  "compileType": "game",
+  "libVersion": "3.3.4",
+  "appid": "touristappid",
+  "projectname": "swallow-evolution-minigame",
+  "condition": {}
+}
